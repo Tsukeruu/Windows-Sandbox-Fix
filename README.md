@@ -3,3 +3,6 @@
 
 i didnt write this script but credits to whoever did: https://superuser.com/questions/1778342/windows-sandbox-wont-open-executables-you-need-to-install-an-app-for-this-ta
 heres the post
+
+
+*The issue came from unsigned apps*
